@@ -40,3 +40,7 @@ gem 'spring',        group: :development
 # gem 'debugger', group: [:development, :test]
 
 gem 'octokit'
+gem 'netrc'
+gem 'faraday-http-cache'
+gem 'activeadmin', github: 'gregbell/active_admin'
+gem 'devise'
